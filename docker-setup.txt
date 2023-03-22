@@ -1,0 +1,9 @@
+「[FRAMWORK]を使用するために、Dockerを使用してフレームワークをセットアップする方法について説明してください。具体的には、Ruby [RUBY_VERSION]を使用し、[DEPENDENCIES]を使用して[FRAMWORK]をインストールし、[FILES]を用意し、Dockerfileにどのような設定を行うか、コンテナを起動する方法などについて詳しく説明してください。」
+
+
+
+
+FRAMWORK = "Sinatra"
+RUBY_VERSION = "2.6"
+DEPENDENCIES = "Bundler, Ruby"
+FILES = "Gemfile, Gemfile.lock"
